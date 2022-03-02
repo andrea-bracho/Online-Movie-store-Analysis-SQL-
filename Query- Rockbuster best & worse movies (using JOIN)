@@ -1,0 +1,15 @@
+SELECT sum(A.amount) AS amountOfMovie,	
+	A.customer_id, 
+	A.staff_id, 
+	D.title,
+	D.rating,
+	E.category_id,
+	F.name
+FROM payment A	
+LEFT JOIN rental B ON A.rental_id = B.rental_id	
+LEFT JOIN inventory C ON B.inventory_id = C.inventory_id	
+LEFT JOIN film D ON C.film_id = D.film_id	
+LEFT JOIN film_category E ON D.film_id = E.film_id	
+LEFT JOIN category F ON E.category_id = F.category_id	
+GROUP BY D.title, A.amount, A.customer_id, A.staff_id, D.rating, E.category_id,F.name	
+ORDER BY amountOfMovie DESC	
