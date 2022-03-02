@@ -1,5 +1,3 @@
-Top 100 Countries
-
 SELECT D.country,
        COUNT(customer_id) AS count_customers
 FROM customer A
