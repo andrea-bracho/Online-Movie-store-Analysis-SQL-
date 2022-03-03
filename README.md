@@ -2,7 +2,7 @@
 #### Rockbuster provided a data set that cointains the folowing 15 tables:
 #### payment, rental, store, inventory, film, film_category, category, film_actor, actor, language, customer, staff, address, city, country. 
 #### Using the tables named above, my task is to identify trends & insights using SQL.
-### :bulb: Key questions and Objectives:
+## :bulb: Key questions and Objectives:
 #### 1. Find movies that contributed the most/least.
 #### 2. Find average duration of movies.
 #### 3. Which countries are Rockbuster's customers based in?
