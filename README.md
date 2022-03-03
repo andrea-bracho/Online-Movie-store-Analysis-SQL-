@@ -2,11 +2,11 @@
 #### Rockbuster provided a data set that cointains the folowing 15 tables:
 #### payment, rental, store, inventory, film, film_category, category, film_actor, actor, language, customer, staff, address, city, country. 
 #### Using the tables named above, my task is to identify trends & insights using SQL.
-### Key questions and Objectives:
+### :bulb: Key questions and Objectives:
 #### 1. Find movies that contributed the most/least.
 #### 2. Find average duration of movies.
 #### 3. Which countries are Rockbuster's customers based in?
 #### 4. Where are customers with high lifetime value based?
 #### 5. Do sales figures vary between geographic region?
 
-#### The final presentation was made using Tableau [click here](https://public.tableau.com/views/Rockbusterpresentation_16401281329690/Rockbuster?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### The final presentation was made using Tableau. [take a look!](https://public.tableau.com/views/Rockbusterpresentation_16401281329690/Rockbuster?:language=en-US&:display_count=n&:origin=viz_share_link)
