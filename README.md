@@ -8,5 +8,9 @@
 #### 3. Which countries are Rockbuster's customers based in?
 #### 4. Where are customers with high lifetime value based?
 #### 5. Do sales figures vary between geographic region?
-
+## :desktop_computer: Tools:
+#### PostgreSQL
+#### DB Visualizer
+#### Tableau
+## :clapper: Final Presentation:
 #### The final presentation was made using Tableau. [take a look!](https://public.tableau.com/views/RockbusterStealthpresentation/Rockbuster?:language=en-US&:display_count=n&:origin=viz_share_link)
