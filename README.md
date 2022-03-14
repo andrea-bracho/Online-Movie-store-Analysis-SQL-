@@ -9,4 +9,4 @@
 #### 4. Where are customers with high lifetime value based?
 #### 5. Do sales figures vary between geographic region?
 
-#### The final presentation was made using Tableau. [take a look!](https://public.tableau.com/views/Rockbusterpresentation_16401281329690/Rockbuster?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### The final presentation was made using Tableau. [take a look!](https://public.tableau.com/views/RockbusterStealthpresentation/Rockbuster?:language=en-US&:display_count=n&:origin=viz_share_link)
