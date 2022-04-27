@@ -1,4 +1,4 @@
--- Best & worse movies based on profit
+-- Best & worse Movies based on profit
 SELECT sum(A.amount) AS amountOfMovie,	
 	A.customer_id, 
 	A.staff_id, 
