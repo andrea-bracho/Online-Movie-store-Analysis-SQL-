@@ -1,5 +1,5 @@
 ## SQL analysis - Rockbuster Stealth :movie_camera: (online movie rental company)
-#### Rockbuster provided a data set that cointains the folowing 15 tables:
+#### Rockbuster provided a data set that cointains the following 15 tables:
 #### payment, rental, store, inventory, film, film_category, category, film_actor, actor, language, customer, staff, address, city, country. 
 #### Using the tables named above, my task is to identify trends & insights using SQL.
 ## :bulb: Key questions and Objectives:
